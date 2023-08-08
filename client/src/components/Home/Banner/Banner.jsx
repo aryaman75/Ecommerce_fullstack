@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./Banner.scss";
-import BannerImg from "../../../assets/banner-img.png";
+import BannerImg from "../../../assets/pngwing.com.png";
 
 const Banner = () => {
     return (
@@ -10,7 +10,7 @@ const Banner = () => {
                 <div className="text-content">
                     <h1>SALES</h1>
                     <p>
-                        Experience Sales of the best products in the world by professionals
+                        Experience Sales of the best electronic products in the world 
                     </p>
                     <div className="ctas">
                         <div className="banner-cta">Read More</div>
